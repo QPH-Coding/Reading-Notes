@@ -1,0 +1,113 @@
+{
+  "main": {
+    "id": "514dc64c6d950b00",
+    "type": "split",
+    "children": [
+      {
+        "id": "13ebf8a4289726fb",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "1、让自己习惯C++/04-确定对象被使用前已被初始化.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "78bb71ffae6fd395",
+    "type": "split",
+    "children": [
+      {
+        "id": "2720b64c8be46dd3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4909262b5a3ac88d",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "a522b7a92c4d241a",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "9e66d9abac9a06d2",
+    "type": "split",
+    "children": [
+      {
+        "id": "1d50f6756a7aabb3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b131200c76781b73",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "1、让自己习惯C++/04-确定对象被使用前已被初始化.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "72b12f7ce3c83cdc",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "1、让自己习惯C++/04-确定对象被使用前已被初始化.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "13ebf8a4289726fb",
+  "lastOpenFiles": [
+    "4、设计与声明/19-设计class犹如设计type.md",
+    "1、让自己习惯C++/02-尽量以const，enum，inline代替#define.md",
+    "Effestive C++/5、实现/28-避免返回handles指向对象内部成分.md",
+    "Effestive C++/5、实现/27-尽量少做转型动作.md",
+    "Effestive C++/4、设计与声明/22-将成员变量声明为private.md",
+    "Effestive C++/4、设计与声明/20-宁以pass-by-reference-to-const替代pass-by-value.md",
+    "Effestive C++/4、设计与声明/19-设计class犹如设计type.md",
+    "Effestive C++/2、构造、析构、赋值运算/09-绝不在构造和析构过程中调用virtual函数.md",
+    "Effestive C++/2、构造、析构、赋值运算/07-为多态基类声明virtual析构函数.md",
+    "Effestive C++/2、构造、析构、赋值运算/05-了解C++默认编写并调用哪些函数.md"
+  ]
+}
