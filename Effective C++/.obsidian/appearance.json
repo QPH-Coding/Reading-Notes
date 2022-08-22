@@ -1,7 +1,8 @@
 {
   "cssTheme": "Obsidian Nord",
-  "interfaceFontFamily": "",
-  "textFontFamily": "",
+  "interfaceFontFamily": "DroidSansMono Nerd Font Mono",
+  "textFontFamily": "DroidSansMono Nerd Font Mono",
   "baseFontSize": 15,
-  "theme": "obsidian"
+  "theme": "obsidian",
+  "monospaceFontFamily": "DroidSansMono Nerd Font Mono"
 }

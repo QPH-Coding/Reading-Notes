@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "5、实现/28-避免返回handles指向对象内部成分.md",
+            "file": "5、实现/29-为“异常安全”而努力是值得的.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "5、实现/28-避免返回handles指向对象内部成分.md",
+                "file": "5、实现/29-为“异常安全”而努力是值得的.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -86,7 +86,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "5、实现/28-避免返回handles指向对象内部成分.md"
+                "file": "5、实现/29-为“异常安全”而努力是值得的.md"
               }
             }
           }
@@ -99,15 +99,15 @@
   },
   "active": "13ebf8a4289726fb",
   "lastOpenFiles": [
+    "5、实现/30-透彻了解inlining的里里外外.md",
     "5、实现/29-为“异常安全”而努力是值得的.md",
+    "5、实现/28-避免返回handles指向对象内部成分.md",
     "1、让自己习惯C++/04-确定对象被使用前已被初始化.md",
     "4、设计与声明/19-设计class犹如设计type.md",
     "1、让自己习惯C++/02-尽量以const，enum，inline代替#define.md",
     "Effestive C++/5、实现/28-避免返回handles指向对象内部成分.md",
     "Effestive C++/5、实现/27-尽量少做转型动作.md",
     "Effestive C++/4、设计与声明/22-将成员变量声明为private.md",
-    "Effestive C++/4、设计与声明/20-宁以pass-by-reference-to-const替代pass-by-value.md",
-    "Effestive C++/4、设计与声明/19-设计class犹如设计type.md",
-    "Effestive C++/2、构造、析构、赋值运算/09-绝不在构造和析构过程中调用virtual函数.md"
+    "Effestive C++/4、设计与声明/20-宁以pass-by-reference-to-const替代pass-by-value.md"
   ]
 }

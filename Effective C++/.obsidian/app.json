@@ -1,6 +1,7 @@
 {
   "legacyEditor": false,
   "livePreview": true,
-  "showLineNumber": false,
-  "alwaysUpdateLinks": true
+  "showLineNumber": true,
+  "alwaysUpdateLinks": true,
+  "showFrontmatter": false
 }
