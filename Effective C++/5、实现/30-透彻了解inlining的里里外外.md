@@ -1,4 +1,4 @@
-# 透彻了解inlineing的里里外外
+# 条款30-透彻了解inlineing的里里外外
 ---
 - `inline`函数，看起来像函数，动作像函数，比宏好很多(见[[02-尽量以const，enum，inline代替define]])，同时不必带来调用函数所招致的额外开销。
 
